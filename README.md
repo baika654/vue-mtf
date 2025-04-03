@@ -22,5 +22,11 @@ npm install
 ```sh
 npm run build-only
 ```
+The resulting files in the ./dist folder are copied across to the ./client/folder of the nest.js project.
+
+```sh
+npm run dev
+```
+will run the code at http://localhost:5173 but without the server running, nothing much happens.
 
 
