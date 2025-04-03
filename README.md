@@ -11,23 +11,14 @@ as this stops the type checking. If I had more time I would fix that.
 ## Project Setup
 
 ```sh
+git clone 
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
 ```
 
 ### Type-Check, Compile and Minify for Production
 
 ```sh
-npm run build
+npm run build-only
 ```
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
