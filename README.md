@@ -11,7 +11,9 @@ as this stops the type checking. If I had more time I would fix that.
 ## Project Setup
 
 ```sh
-git clone 
+git clone https://github.com/baika654/vue-mtf.git
+git checkout master
+cd vue-mtf 
 npm install
 ```
 
