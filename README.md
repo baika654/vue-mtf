@@ -12,8 +12,8 @@ as this stops the type checking. If I had more time I would fix that.
 
 ```sh
 git clone https://github.com/baika654/vue-mtf.git
-git checkout master
 cd vue-mtf 
+git checkout master
 npm install
 ```
 
